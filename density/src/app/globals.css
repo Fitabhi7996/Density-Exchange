@@ -3,25 +3,21 @@
 @tailwind utilities; */
 
 /* styles/globals.css */
-@import 'tailwindcss/base';
+/* @import 'tailwindcss/base';
 @import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import 'tailwindcss/utilities'; */
 
 
 /* globals.css */
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
 
+
+/* Home.module.css */
+
+
+/* Add any additional styles or overrides for your content here */
 body {
   margin: 0;
   padding: 0;
+  background-color: black;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background-clip: url("https://cdn.dribbble.com/users/32512/screenshots/17050339/media/8a71ce5d9f1bc1fbf0b1278c55ee4b01.mp4");
-  background-size: cover;
-  overflow: hidden; /* Prevent scrollbars from appearing */
 }
-
-/* Add any additional styles or overrides for your content here */
