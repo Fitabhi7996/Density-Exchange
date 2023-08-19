@@ -30,8 +30,4 @@ Contributions to this project are not currently being accepted as it was complet
 
 This project is for educational purposes and is not intended for commercial use. No license is provided.
 
-## Contact
 
-- Your Name
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
